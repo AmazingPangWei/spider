@@ -1,8 +1,8 @@
 import requests
 
 requests.packages.urllib3.disable_warnings()
-id = "ÄãµÄÕËºÅ"
-ps = "ÄãµÄÃÜÂë"
+id = "ä½ çš„è´¦å·"
+ps = "ä½ çš„å¯†ç "
 post = {
     'user_name':id,
     'password':ps

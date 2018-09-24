@@ -6,8 +6,8 @@ requests.packages.urllib3.disable_warnings()
 
 def getHTMLText(url):
     try:
-        id = "1832394515@qq.com"
-        ps = "74520tsy"
+        id = "你的账号"
+        ps = "你的密码"
         post = {
             'user_name': id,
             'password': ps
